@@ -1,0 +1,7 @@
+ports:
+    daemon: 8080
+    sftp: 2020
+panel:
+    AuthenticationTokenId: 42342fdsfsd4234234
+    url: https://host.freddie.pw
+    
